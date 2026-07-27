@@ -1,5 +1,7 @@
 # Autonomous Face-Tracking Vision System (Phase 1)
 
+https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
+
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-c51a4a?logo=raspberrypi&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Raspberry%20Pi%20OS%2064--bit%20(Trixie)-A81D33?logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
