@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Real-time, low-latency facial centroid tracking on edge hardware. This system runs a deep learning detection pipeline entirely on-device, computes a corrected landmark offset for stable subject-centroid lock, and emits smoothed (X, Y) error telemetry intended to drive a future pan-tilt servo gimbal.
-https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
+
 ---
 
 ## 1. Project Overview
@@ -49,3 +49,5 @@ The initial prototype used Haar Cascade classifiers. In practice, Haar Cascades 
 
 ### 3.2 Facial Landmark Offset Correction
 By default, the SSD bounding box centroid tracks roughly to the nose/mid-face region. For a stable, repeatable lock point (required for downstream gimbal aiming accuracy), I engineered a deterministic vertical offset to bias the tracking point upward within the bounding box:
+
+https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
