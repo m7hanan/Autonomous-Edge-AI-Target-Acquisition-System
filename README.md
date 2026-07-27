@@ -1,6 +1,6 @@
 # Autonomous Face-Tracking Vision System (Phase 1)
 
-https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
+
 
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-c51a4a?logo=raspberrypi&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Raspberry%20Pi%20OS%2064--bit%20(Trixie)-A81D33?logo=debian&logoColor=white)
@@ -10,7 +10,7 @@ https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Real-time, low-latency facial centroid tracking on edge hardware. This system runs a deep learning detection pipeline entirely on-device, computes a corrected landmark offset for stable subject-centroid lock, and emits smoothed (X, Y) error telemetry intended to drive a future pan-tilt servo gimbal.
-
+https://youtu.be/qhSOUVYQd-o?si=iSeQWzcEOb3XP2Cu
 ---
 
 ## 1. Project Overview
